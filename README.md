@@ -8,8 +8,8 @@ The folder including training and test phase.
 
 1. Clone yolo_v1_tensorflow repository
 	```Shell
-	$ git clone https://github.com/hizhangp/YOLO-V1_Tensorflow.git
-    $ cd yolo_tensorflow
+	$ git clone https://github.com/zjcanjux/yolo_v1_tensorflow.git
+    $ cd yolo_v1_tensorflow
 	```
 
 2. Download Pascal VOC dataset, and create correct directories
@@ -24,12 +24,12 @@ weight file and put it in `data/weight`
 
 5. Training
 	```Shell
-	$ python train.py
+	$ python yolo_v1train.py
 	```
 
 6. Test
 	```Shell
-	$ python test.py
+	$ python yolo_v1test.py
 	```
 
 ### Requirements
