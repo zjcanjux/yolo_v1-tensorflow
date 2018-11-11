@@ -1,8 +1,8 @@
 ## YOLO_V1_Tensorflow
 
-YOLO_V1 writer by Tensorflow 
+YOLO_V1 Tensorflow version
 
-The folder including training and test phase.
+The folder includes train, test phase, and detailed comments in yolo_v1.py.
 
 ### Installation
 
